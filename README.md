@@ -1,1 +1,1 @@
-# simple-python-interpreter
+# Simple Python Interpreter
